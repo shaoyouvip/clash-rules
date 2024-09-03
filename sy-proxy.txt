@@ -43,3 +43,4 @@ payload:
   - '+.cloudvolumes.com'
   - '+.cloudyzgirl.com'
   - '+.chatgpt.com'
+  - '+.nyc.mn'
