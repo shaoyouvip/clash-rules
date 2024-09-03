@@ -46,3 +46,5 @@ payload:
   - '+.nyc.mn'
   - '+.obl.ong'
   - '+.cloudns.net'
+  - '+.pasyun.com'
+  - '+.duckyci.com'
