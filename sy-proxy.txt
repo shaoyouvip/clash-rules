@@ -44,3 +44,4 @@ payload:
   - '+.cloudyzgirl.com'
   - '+.chatgpt.com'
   - '+.nyc.mn'
+  - '+.obl.ong'
