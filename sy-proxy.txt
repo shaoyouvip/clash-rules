@@ -45,3 +45,4 @@ payload:
   - '+.chatgpt.com'
   - '+.nyc.mn'
   - '+.obl.ong'
+  - '+.cloudns.net'
