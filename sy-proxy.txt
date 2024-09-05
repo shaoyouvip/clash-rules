@@ -48,3 +48,4 @@ payload:
   - '+.cloudns.net'
   - '+.pasyun.com'
   - '+.duckyci.com'
+  - '+.github.com'
