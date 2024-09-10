@@ -8,6 +8,7 @@ payload:
   - 'xn--flw351e.com'
   - 'xp.apple.com'
   - 'xz.pphimalayanrt.com'
+  - 'data.streaming.vercel.sh'
   - '+.0-6.com'
   - '+.vercel.com'
   - '+.001315.xyz'
