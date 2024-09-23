@@ -11,4 +11,3 @@ payload:
   - '+.0-6.com'
   - '+.vercel.com'
   - '+.001315.xyz'
-  - '+.linux.do'
