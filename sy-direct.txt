@@ -10,5 +10,3 @@ payload:
   - 'xz.pphimalayanrt.com'
   - '+.0-6.com'
   - '+.vercel.com'
-  - '+.001315.xyz'
-  - '+.aizrf.com'
