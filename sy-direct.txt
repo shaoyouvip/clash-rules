@@ -10,7 +10,6 @@ payload:
   - 'xz.pphimalayanrt.com'
   - '+.0-6.com'
   - '+.vercel.com'
-  - '+.linux.do'
   - 0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
   - 0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
   - 0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com
