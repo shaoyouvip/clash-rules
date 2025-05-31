@@ -1,5 +1,6 @@
 payload:
   - 'www.recaptcha.net'
+  - 'lxhaoka.cn'
   - 'www.support.apple.com'
   - 'www.ztedevices.com'
   - 'www4-static.gog-statics.com'
