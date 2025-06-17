@@ -1,5 +1,5 @@
 payload:
-  - '+.zrf.me'
+  - "+.zrf.me"
   - 'www.recaptcha.net'
   - 'lxhaoka.cn'
   - 'www.support.apple.com'
