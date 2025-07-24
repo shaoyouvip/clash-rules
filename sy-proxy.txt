@@ -1,4 +1,6 @@
 payload:
+  - +.zrf.me
+  - +.zrfme.com
   - +.cf-ipfs.com
   - +.cf-ns.com
   - +.cf-ns.net
