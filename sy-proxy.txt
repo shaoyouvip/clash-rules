@@ -1,3 +1,4 @@
 payload:
+  - +.nodeseek.com
   - +.zrf.me
   - +.zrfme.com
